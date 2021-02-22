@@ -7,7 +7,7 @@ this code takes in raw input to create an interactive experience to present thes
 
 ## What Software Do you Need?
 the following software requirements apply:
-- You should have Python 3, NumPy, Pandas and Jupyter notebook installed using Anaconda
+- You should have Python 3, NumPy and Pandas installed using Anaconda
 
 ## The Datasets
 are randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
